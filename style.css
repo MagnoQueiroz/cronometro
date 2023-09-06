@@ -29,7 +29,6 @@ body {
     margin: 90px auto 0;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
-
 #container p {
     text-align: center;
     font-size: 50px;
@@ -45,7 +44,7 @@ button {
     background-color: #08d6ff;
 
     margin-top: 20px;
-    width: 100px;
+    width: 110px;
     height: 40px;
     border: 1px transparent;
     border-radius: 5px;
@@ -56,15 +55,19 @@ button {
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     transition: 200ms;
 }
-
 button:hover {
     background-color: #28bfdd;
 }
-
 button#button-stop {
     background-color: #ff2d2d;
 }
-
 button#button-stop:hover {
     background-color: #e83939;
+}
+
+footer {
+    width: 100%;
+    position: absolute;
+    bottom: 10px;
+    text-align: center;
 }
