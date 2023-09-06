@@ -1,1 +1,12 @@
 # Cronometro em JS
+
+- this project is created by HTML, CSS and JavaScript
+- works for mobile devices and web browsers
+- its layout is clean and simples for used
+
+#
+
+# layout
+### web and version:
+<img src="./assets/images/web.png" width="600px">
+<img src="./assets/images/mobile.png" width="150px">
