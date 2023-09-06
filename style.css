@@ -67,7 +67,15 @@ button#button-stop:hover {
 
 footer {
     width: 100%;
-    position: absolute;
-    bottom: 10px;
     text-align: center;
+    position: absolute;
+    bottom: 2%;
+    /* position: absolute;
+    bottom: 10px;
+    text-align: center; */
+}
+
+a{
+    text-decoration: none;
+    color: white;
 }
