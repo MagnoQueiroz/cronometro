@@ -9,7 +9,7 @@
 # layout
 ### web and version:
 <div style="display:flex">
-  <img src="./assets/images/web.png" width="650px">
+  <img src="./assets/images/web.png" width="800px">
   <img src="./assets/images/mobile.png" width="250px">
 </div>
 
