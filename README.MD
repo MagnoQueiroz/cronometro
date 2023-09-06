@@ -8,7 +8,7 @@
 
 # layout
 ### web and version:
-<img src="./assets/images/web.png" width="440px">
+<img src="./assets/images/web.png" width="420px">
 <img src="./assets/images/mobile.png" width="100px">
 
 # links:
