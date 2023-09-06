@@ -8,8 +8,8 @@
 
 # layout
 ### web and version:
-<img src="./assets/images/web.png" width="420px">
-<img src="./assets/images/mobile.png" width="100px">
+<img src="./assets/images/web.png">
+<img src="./assets/images/mobile.png" width="130px">
 
 # links:
 <a href="https://cronometro-virid.vercel.app/">acesse o site</a>
