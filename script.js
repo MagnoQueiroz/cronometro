@@ -24,7 +24,6 @@ function chronometer() {
         minutes += 1;
         seconds = 0;
     }
-
     if (minutes === 60) {
         hours += 1;
         minutes = 0;
@@ -43,7 +42,8 @@ function showValues(time) {
 
 function startChronometer() {
     currentChronometer = setInterval(processChronometer, 1000);
-    button.disabled = !event.target.checked;
+    button.toggleAttribute("disabled");
+    //button.disabled = !event.target.checked;
     pause.removeAttribute("disabled");
 }
 
@@ -55,8 +55,9 @@ pause.addEventListener("click", pauseChronometer);
 
 function pauseChronometer() {
     clearInterval(currentChronometer);
+    pause.toggleAttribute("disabled");
+    //pause.disabled = !event.target.checked;
     button.removeAttribute("disabled");
-    pause.disabled = !event.target.checked;
 }
 
 stop.addEventListener("click", stopChronometer);
