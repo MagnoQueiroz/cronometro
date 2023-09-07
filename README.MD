@@ -9,8 +9,8 @@
 # layout
 ### web and version:
 <div style="display:flex">
-  <img src="./assets/images/web.png" width="500px">
-  <img src="./assets/images/mobile.png" width="250px">
+  <img src="./assets/images/web.png" width="600px">
+  <img src="./assets/images/mobile.png" width="150px">
 </div>
 
 
