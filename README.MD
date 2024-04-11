@@ -1,4 +1,4 @@
-# Cronometro em JS
+# Cronometro in JS
 
 - this project is created by HTML, CSS and JavaScript
 - works for mobile devices and web browsers
@@ -7,7 +7,7 @@
 #
 
 # Layout
-### web and version:
+### Web and web-mobile version:
 <div style="display:flex">
   <img src="./assets/images/web.png" width="600px">
   <img src="./assets/images/mobile.png" width="150px">
