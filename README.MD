@@ -6,7 +6,7 @@
 
 #
 
-# layout
+# Layout
 ### web and version:
 <div style="display:flex">
   <img src="./assets/images/web.png" width="600px">
@@ -14,5 +14,5 @@
 </div>
 
 
-# links:
-<a href="https://cronometro-virid.vercel.app/">GO TO WEBSITE</a>
+# Link:
+<a href="https://cronometro-virid.vercel.app/">GO TO SITE</a>
