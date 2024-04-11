@@ -15,7 +15,7 @@
 
 
 # Link:
-<a href="https://cronometro-virid.vercel.app/">GO TO SITE</a>
+<a href="https://cronometro-my.netlify.app//">GO TO SITE</a>
 
 <div align="center">
 
