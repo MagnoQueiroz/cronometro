@@ -15,4 +15,4 @@
 
 
 # links:
-<a href="https://cronometro-virid.vercel.app/">acesse o site</a>
+<a href="https://cronometro-virid.vercel.app/">GO TO WEBSITE</a>
