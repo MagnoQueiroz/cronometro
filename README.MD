@@ -8,7 +8,7 @@
 
 # Layout
 ### Desktop and mobile version:
-<div style="display:flex">
+<div style="display:flex" align="center">
   <img src="./assets/images/web.png" width="600px">
   <img src="./assets/images/mobile.png" width="150px">
 </div>
