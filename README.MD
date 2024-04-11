@@ -16,3 +16,8 @@
 
 # Link:
 <a href="https://cronometro-virid.vercel.app/">GO TO SITE</a>
+
+<div align="center">
+
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+</div>
