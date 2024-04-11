@@ -7,7 +7,7 @@
 #
 
 # Layout
-### Web and web-mobile version:
+### Desktop and mobile version:
 <div style="display:flex">
   <img src="./assets/images/web.png" width="600px">
   <img src="./assets/images/mobile.png" width="150px">
